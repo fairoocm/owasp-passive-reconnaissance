@@ -41,7 +41,9 @@ The objective was to understand how DNS records, domain registration information
 
 ## Report and Evidence
 
-The report and supporting screenshots will be added after reviewing them for accuracy, sensitive information, and suitability for public sharing.
+The full reconnaissance report, including methodology, observations, limitations, and supporting evidence, is available below.
+
+[View the OWASP Passive Reconnaissance Report (PDF)](./OWASP_Passive_Reconnaissance_Report_With_Evidence.pdf)
 
 ## Scope and Ethics
 
